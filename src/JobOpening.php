@@ -1,6 +1,6 @@
 <?php
 
-public class JobOpening {
+class JobOpening {
 
   private $title;
   private $des;

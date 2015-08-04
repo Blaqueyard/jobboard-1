@@ -1,6 +1,6 @@
 <?php
 
-public class Contact {
+class Contact {
 
     private $phone;
     private $email;
