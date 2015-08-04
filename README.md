@@ -1,4 +1,4 @@
-######Job Board
+#Job Board
 
 Its a board to post jobs, August 4th 2015
 
